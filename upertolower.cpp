@@ -8,9 +8,11 @@ int main()
 
    //cout<<int('a')-int('A');
 
-   for(int i=0;i<str.length();i++){
-        str[i]=str[i]-32;
-   }
+//    for(int i=0;i<str.length();i++){
+//         str[i]=str[i]-32;
+//    }
+
+    trans
     cout<<str<<endl;
 
     string str1="AYUSHGINOYA";
